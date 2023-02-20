@@ -1,0 +1,1 @@
+# RAFT protocol implementation (copyright Diptarshi Chakraborty)
